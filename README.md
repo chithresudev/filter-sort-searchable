@@ -1,6 +1,6 @@
 # laravel Devchithu-Filter-Sort-Searchable
 
-[![Latest Stable Version](http://poser.pugx.org/phpunit/phpunit/v)](https://packagist.org/packages/phpunit/phpunit) [![Total Downloads](http://poser.pugx.org/phpunit/phpunit/downloads)](https://packagist.org/packages/phpunit/phpunit) [![Latest Unstable Version](http://poser.pugx.org/phpunit/phpunit/v/unstable)](https://packagist.org/packages/phpunit/phpunit) [![License](http://poser.pugx.org/phpunit/phpunit/license)](https://packagist.org/packages/phpunit/phpunit) [![PHP Version Require](http://poser.pugx.org/phpunit/phpunit/require/php)](https://packagist.org/packages/phpunit/phpunit)
+[![Latest Stable Version](http://poser.pugx.org/devchithu/filter-sort-searchable/v)](https://packagist.org/packages/devchithu/filter-sort-searchable) [![Total Downloads](http://poser.pugx.org/devchithu/filter-sort-searchable/downloads)](https://packagist.org/packages/devchithu/filter-sort-searchable) [![Latest Unstable Version](http://poser.pugx.org/devchithu/filter-sort-searchable/v/unstable)](https://packagist.org/packages/devchithu/filter-sort-searchable) [![License](http://poser.pugx.org/devchithu/filter-sort-searchable/license)](https://packagist.org/packages/devchithu/filter-sort-searchable) [![PHP Version Require](http://poser.pugx.org/devchithu/filter-sort-searchable/require/php)](https://packagist.org/packages/devchithu/filter-sort-searchable)
 
 
 This Package for handling dynamic column sorting, filter and searchable in Laravel.
