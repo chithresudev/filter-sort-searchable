@@ -1,8 +1,8 @@
 # laravel Devchithu-Filter-Sort-Searchable
 
-[![Version](http://poser.pugx.org/dev-chithu/laravel-filter-sort-searchable/version)](https://packagist.org/packages/dev-chithu/laravel-filter-sort-searchable)
-[![Total Downloads](http://poser.pugx.org/dev-chithu/laravel-filter-sort-searchable/downloads)](https://packagist.org/packages/dev-chithu/laravel-filter-sort-searchable)
-[![License](http://poser.pugx.org/dev-chithu/laravel-filter-sort-searchable/license)](https://packagist.org/packages/dev-chithu/laravel-filter-sort-searchable)
+[![Version](http://poser.pugx.org/dev-chithu/filter-sort-searchable/version)](https://packagist.org/packages/dev-chithu/filter-sort-searchable)
+[![Total Downloads](http://poser.pugx.org/dev-chithu/filter-sort-searchable/downloads)](https://packagist.org/packages/dev-chithu/filter-sort-searchable)
+[![License](http://poser.pugx.org/dev-chithu/filter-sort-searchable/license)](https://packagist.org/packages/dev-chithu/filter-sort-searchable)
 
 
 This Package for handling dynamic column sorting, filter and searchable in Laravel.
