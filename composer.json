@@ -1,0 +1,19 @@
+{
+    "name": "devchithu/filter-sort-searchable",
+    "description": "This package using filter sort searchable package require php 7.4 higher version support",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Devchithu\\FilterSortSearchable\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "chithresu ganesan",
+        "email": "chithresu@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.2|^8.0"
+    }
+}
